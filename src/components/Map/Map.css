@@ -1,0 +1,41 @@
+.MuiFormControl-root {
+    border: 0;
+    margin: 0 5px!important;
+    display: inline-flex;
+    padding: 0;
+    position: relative;
+    min-width: 0;
+    flex-direction: column;
+    vertical-align: top;
+}
+
+.MuiInput-underline:before {
+    border-bottom: 1px solid #E1E5F1;
+    content: none!important;
+}
+
+.MuiInput-underline:after {
+    border-bottom: 2px solid #D62754!important;
+}
+
+.MuiInput-underline:hover {
+    border-bottom: 1px solid #E1E5F1!important;
+}
+
+::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+
+@media only screen and (max-width: 600px) {
+    .MuiInputBase-input {
+        width: 100%!important;
+        font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+        font: status-bar!important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .MuiFormControl-root  {
+         margin: 0px!important;
+    }
+}
