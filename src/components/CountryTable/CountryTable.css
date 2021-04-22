@@ -1,34 +1,32 @@
 .MuiTableCell-body {
-    color: #E1E5F1!important;
+  color: #e1e5f1 !important;
 }
 
 .MuiTableCell-head {
-    color: #E1E5F1!important;
-    font-weight: 400!important;
-    line-height: 1.5rem;
-    background-color: #191A1D!important;
+  color: #e1e5f1 !important;
+  font-weight: 400 !important;
+  line-height: 1.5rem;
+  background-color: #191a1d !important;
 }
 
-
 .MuiTableCell-root {
-    padding: 2px!important;
+  padding: 2px !important;
 }
 
 .MuiTableCell-alignRight {
-    text-align: center!important;
+  text-align: center !important;
 }
 
 .MuiTableCell-stickyHeader {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 svg:not(:root).svg-inline--fa {
-	color: #0AAE84!important;
-	width: 25px;
+  color: #0aae84 !important;
+  width: 25px;
 }
 
 svg:not(:hover).svg-inline--fa {
-	color: #E1E5F1!important;
-	width: 20px;
+  color: #e1e5f1 !important;
+  width: 20px;
 }
-

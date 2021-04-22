@@ -1,15 +1,15 @@
 .MuiTypography-colorTextSecondary {
-    color: #E1E5F1!important;
+  color: #e1e5f1 !important;
 }
 
 .MuiPaper-outlined {
-    border: 1px solid red!important;
+  border: 1px solid red !important;
 }
 
 .MuiTypography-overline {
-    font-size: 11px!important;
-    font-weight: 300!important;
-    line-height: 1.5!important;
-    letter-spacing: 0!important; 
-    text-transform: uppercase;
+  font-size: 11px !important;
+  font-weight: 300 !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0 !important;
+  text-transform: uppercase;
 }
